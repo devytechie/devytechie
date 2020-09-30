@@ -2,8 +2,7 @@
 
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/rbahtia46/)](https://twitter.com/rbhatia46/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahul-bhatia-67ba08121/)](https://www.linkedin.com/in/rahul-bhatia-67ba08121/)
-[![Medium](https://img.shields.io/badge/-Medium-222222?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@rbhatia46)](https://medium.com/@rbhatia46)
-[![GitHub Rahul](https://img.shields.io/github/followers/rbhatia46?label=follow&style=social)](https://github.com/devytechie)
+[![GitHub Devytechie](https://img.shields.io/github/followers/devytechie?label=follow&style=social)](https://github.com/devytechie)
 
 <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Frbhatia46%2Frbhatia46" alt="Hits">
 
@@ -14,7 +13,7 @@ _Last updated: October 2018_
 --->
 
 <!--
-**rbhatia46/rbhatia46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**devytechie/devytechie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
