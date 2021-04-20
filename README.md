@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com)](https://twitter.com//)
+[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com)](https://twitter.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com)](https://www.linkedin.com)
 [![GitHub Devytechie](https://img.shields.io/github/followers/devytechie?label=follow&style=social)](https://github.com/devytechie)
 
